@@ -1,0 +1,9 @@
+Margherita:pomodoro mozzarella basilico
+Vulcano:pomodoro mozzarella salame melanzane peperoni
+Quattro Stagioni:pomodoro mozzarella prosciutto carciofini melanzane
+Prosciutto e Funghi:pomodoro mozzarella prosciutto funghi
+Prosciutto:pomodoro mozzarella prosciutto
+Diavola:pomodoro mozzarella salame
+Melanzane:pomodoro mozzarella melanzane
+Pugliese:pomodoro cipolla
+Burrata:burrata datterini basilico alici
